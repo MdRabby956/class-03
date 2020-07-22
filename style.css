@@ -1,0 +1,8 @@
+.box{
+    min-height: 100px;
+    background-color: teal;
+    margin-bottom: 5px;
+}
+h2{
+    text-align: center;
+}
